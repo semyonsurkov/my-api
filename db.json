@@ -1,9 +1,9 @@
 {
 [
     {
-      "Name": "Cristiano Ronaldo",
-      "Position": "ST",
-      "img": "https://static01.nyt.com/images/2022/12/30/multimedia/30soccer-ronaldo-1-76fd/30soccer-ronaldo-1-76fd-jumbo.jpg?quality=75&auto=webp"
+      Name: "Cristiano Ronaldo",
+      Position: "ST",
+      img: "https://static01.nyt.com/images/2022/12/30/multimedia/30soccer-ronaldo-1-76fd/30soccer-ronaldo-1-76fd-jumbo.jpg?quality=75&auto=webp"
     },
     {
       "Name": "Lionel Messi",
